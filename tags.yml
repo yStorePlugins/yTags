@@ -6,6 +6,8 @@ Tags:
       Placeholder: true
       # Deixe '' para não usar
       Permissao: ''
+      # Permitir equipar a tag (mesmo sem comprar) apenas por ter a permissão
+      Equipar-Permissao: false
       Preco:
          Compravel: true
          Tipo: 'MONEY'
@@ -27,6 +29,7 @@ Tags:
       Chat: true
       Placeholder: true
       Permissao: ''
+      Equipar-Permissao: false
       Preco:
          Compravel: true
          Tipo: 'yPoints'
@@ -48,6 +51,7 @@ Tags:
       Chat: true
       Placeholder: false
       Permissao: 'ytags.beta'
+      Equipar-Permissao: true
       Preco:
          # Mostrar no menu de NaoCompravel
          Menu: true
