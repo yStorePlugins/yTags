@@ -38,6 +38,7 @@ Mensagens:
    Permissao tag: '&cVocê não pode usar esta tag.'
    Nao tem player: '&c&lERRO! &cEste jogador não possui esta tag.'
    Removeu: '&aVocê removeu a tag &7{tag}&a do jogador &7{player}&a.'
+   Equipou player: '&aVocê forçou equipar a tag &7{tag}&a para o jogador &7{player}&a.'
    Info:
    - ''
    - '&aInformações do jogador &7{player}&a:'
